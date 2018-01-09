@@ -1,0 +1,13 @@
+{
+	"name": "yii2guide/misc",
+	"type": "guide",
+	"keywords": ["guide","misc"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Yamshikov Vitaliy, WOOPPAY LLC",
+			"email": "theyamshikov@yandex.ru"
+		}
+	],
+	"minimum-stability": "dev",
+}
