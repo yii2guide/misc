@@ -7,3 +7,5 @@
 * [Документация](api-doc.md)
 * [Тесты](api-test.md)
 * [Формат времени](api-time-format.md)
+
+## Рецепты Yii2
