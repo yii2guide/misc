@@ -47,7 +47,7 @@ Web-разработчик
 * БД
 	* SQL (умение составлять и оптимизировать сложные SQL запросы)
 	* PostgreSQL
-	* MySQL 5.5 (SQL, DB Engines, Indexes, Query optimization)
+	* MySQL
 * Опыт работы с *nix
 	* bash
 	* ssh
